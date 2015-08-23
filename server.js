@@ -1,6 +1,8 @@
 var express = require('express');
 var app = express();
 var fs = require('fs');
+app.use(require('express-jquery')('/jquery.js'));
+
 
 var bodyParser = require('body-parser');
 
@@ -22,12 +24,13 @@ app.post('/myaction', function (req, res) {
 	
 	var lolroll = require('./query.js');
 	
-	lolroll.load(res, app);
+	lolroll.load(res, app, s);
 	
 	
 });
 
-
+//var hold = require('./issues.json');
+//console.log(hold.hashtags[0].descriptions);
 
 
 
