@@ -1,0 +1,84 @@
+{
+	
+	"hashtags":
+	{
+		{
+		    "name": "#foodporn",
+			"descriptions": 
+			{
+				{
+					"content":"Pictures of food",
+					"votes": 5
+			
+				},
+				{
+					"content":"actual porn",
+					"votes": 0
+			
+				},
+				{
+					"content":"Really artistic pictures of food that make many users want to eat the pictured item",
+					"votes": 10
+			
+				},
+				{
+					"content":"Food",
+					"votes": 2
+			
+				}
+		
+			}
+		},
+		{
+		    "name": "#StandWithRand",
+			"descriptions": 
+			{
+				{
+					"content":"Douchebag Hashtag",
+					"votes": -1
+			
+				},
+				{
+					"content":"actual porn",
+					"votes": 0
+			
+				},
+				{
+					"content":"Rand Paul hashtag",
+					"votes": 6
+			
+				},
+				{
+					"content":"Hashtag used by Senator Rand Paul during his 2016 presidential campaign on social media",
+					"votes": 12
+			
+				}
+		
+			}
+		},
+		{
+		    "name": "#InstaFood",
+			"descriptions": 
+			{
+				{
+					"content":"Food pictures on Instagram",
+					"votes": 8
+			
+				},
+				{
+					"content":"Instagram Hipsters",
+					"votes": 2
+			
+				},
+				{
+					"content":"actual porn",
+					"votes": 6
+			
+				}
+		
+			}
+		}
+		
+		
+	}
+}
